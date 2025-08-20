@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: rgb(78, 0, 122);
+    margin: 0px;
+}
+
+header{
+    border-bottom: inset 3px rgb(226, 81, 141);
+    padding: 15px;
+    font-size: 30px;
+    color: rgb(49, 211, 176)
+}
+
+h1{
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(148, 108, 185)
+}
+
+p{
+    padding: 5px;
+    font-size: 15px;
+    color: rgb(59, 110, 221)
+}
